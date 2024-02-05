@@ -13,6 +13,15 @@
       "github:org/MEINE-ERDE/thingsboard-micropython-client-sdk/umqtt.py"
     ]
   ],
-  "deps": [],
+  "deps": [
+    [
+      "os-path",
+      "latest"
+    ],
+    [
+      "github:org/micropython-additions",
+      "main"
+    ]
+  ],
   "version": "0.1"
 }

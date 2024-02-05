@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["thingsboard-micropython-client-sdk/tb_device_mqtt.py", "github:org/MEINE-ERDE/thingsboard-micropython-client-sdk/tb_device_mqtt.py"]
+  ],
+  "deps": [],
+  "version": "0.1"
+}

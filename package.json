@@ -2,15 +2,15 @@
   "urls": [
     [
       "tb_sdk/tb_device_mqtt.py",
-      "github:org/MEINE-ERDE/thingsboard-micropython-client-sdk/tb_device_mqtt.py"
+      "github:MEINE-ERDE/thingsboard-micropython-client-sdk/tb_device_mqtt.py"
     ],
     [
       "tb_sdk/sdk_utils.py",
-      "github:org/MEINE-ERDE/thingsboard-micropython-client-sdk/sdk_utils.py"
+      "github:MEINE-ERDE/thingsboard-micropython-client-sdk/sdk_utils.py"
     ],
     [
       "tb_sdk/umqtt.py",
-      "github:org/MEINE-ERDE/thingsboard-micropython-client-sdk/umqtt.py"
+      "github:MEINE-ERDE/thingsboard-micropython-client-sdk/umqtt.py"
     ]
   ],
   "deps": [
